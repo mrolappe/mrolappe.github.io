@@ -1,7 +1,7 @@
 ---
 title: "Erster"
 date: 2023-04-01T18:30:37+02:00
-draft: true
+draft: false
 ---
 * erster beitrag
 
@@ -10,3 +10,5 @@ mal sehen, ob er ~org markup~ direkt frisst.
 ** weitere ebene
 
 überschriften und so...
+
+und natürlich direkt vergessen, das draft-flag zu entfernen.
