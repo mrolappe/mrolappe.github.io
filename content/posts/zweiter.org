@@ -1,0 +1,19 @@
+---
+title: "Zweiter"
+date: 2023-04-01T20:25:13+02:00
+draft: false
+---
+* beim zweiten mal nicht mehr so sehr
+
+duplo, _duplo_, [[https://duplo.de][duplo link]]
+
+** tabula non rasa
+
+| eins | zwo |
+|    1 |   2 |
+|  1.0 | 2.0 |
+|      |     |
+
+#+begin_src java
+System.out.println("java code");
+#+end_src
